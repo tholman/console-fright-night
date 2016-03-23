@@ -1,6 +1,6 @@
 ## Console Fright Night
 
-Give someone an Audio fright... or welcome, when they open the web inspector/console on your website.
+Give someone an Audio fright... or welcome, when they open the web inspector/console on your website. (using safari/chrome ... sorry!)
 
 #### Instructions
 

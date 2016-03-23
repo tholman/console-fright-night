@@ -40,7 +40,7 @@ function CFN(options) {
   function checkTheConsole() {
     audioCheck = false;
     console.log("Check the console: ", audioElement);
-    if( audioCheck === true ) {
+    if( audioCheck === true || (window.Firebug && window.Firebug.chrome && window.Firebug.chrome.isInitialized)) {
       play();
     } else {
       dontPlay();
