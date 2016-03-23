@@ -1,8 +1,8 @@
-# Console Fright Night
+## Console Fright Night
 
 Give someone an Audio fright... or welcome, when they open the web inspector/console on your website.
 
-### Instructions
+#### Instructions
 
 `Console Fright Night` is a stand alone library (no jquery, or the likes) so usage is pretty straight forward. You'll need to include `CFN.js` to your page, and create a new instance of `CFN`.
 
@@ -27,7 +27,7 @@ window.onload = function() {
 
 Because of these console checks, it will look like your console is being spammed, but thats how it works. Not much else we can do there.
 
-### License
+#### License
 
 Console Fright Night is covered by the MIT License.
 
