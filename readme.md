@@ -12,7 +12,7 @@ Give someone an Audio fright... or welcome, when they open the web inspector/con
 
 ```html
 <script>
-// Elevator script included on the page, already.
+// CFN script included on the page, already.
 
 // You can init the script, by calling.
 window.onload = function() {
