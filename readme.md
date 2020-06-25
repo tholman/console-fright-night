@@ -31,4 +31,4 @@ Because of these console checks, it will look like your console is being spammed
 
 Console Fright Night is covered by the MIT License.
 
-Copyright (C) 2016 ~ [Tim Holman](http://tholman.com) ~ timothy.w.holman@gmail.com
+Copyright (C) ~ [Tim Holman](http://tholman.com) ~ timothy.w.holman@gmail.com
